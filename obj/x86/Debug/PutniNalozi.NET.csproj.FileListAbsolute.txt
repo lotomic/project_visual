@@ -1,0 +1,309 @@
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\Uprava.NET.exe.config
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.exe
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.pdb
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\lib\piLogin.dll
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\lib\piLogin.xml
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\upravaKlase\rasporedi.xml
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\lib\piDB3.db3
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\Resources\background.png
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\Resources\Key.png
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\Uprava.NET.exe
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\Uprava.NET.pdb
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\piLogin.dll
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\bin\Debug\piLogin.xml
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.about.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmAkontacija.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmArhivaPutniNalozi.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmEvidencijaAuta.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmIzvjestajPutniNaloziDatum.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmMain.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmLogin.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmObavijesti.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmPregledKreiranogNaloga.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmPregledNaloga.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmPregledNalogaTaj.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmPregledZahtjeva.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmPrijenosPrava.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmRacun.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmRasporedGeneriranje.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmSviPutniNalozi.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmUnosIzvjesca.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmUnosNaloga.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmUnosTroskova.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmUnosTroskovaVisekratni.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.frmZahtjev.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.kataloskiPodaci.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\Uprava.NET.Properties.Resources.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\RdlCompile.cache
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\Uprava.NET + Tajnica\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\Uprava.NET.exe.config
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.exe
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.pdb
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\lib\piLogin.dll
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\lib\piLogin.xml
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\upravaKlase\rasporedi.xml
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\lib\piDB3.db3
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\Resources\background.png
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\Resources\Key.png
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\Uprava.NET.exe
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\Uprava.NET.pdb
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\piLogin.dll
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\bin\Debug\piLogin.xml
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.about.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmAkontacija.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmArhivaPutniNalozi.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmEvidencijaAuta.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmIzvjestajPutniNaloziDatum.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmMain.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmLogin.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmObavijesti.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledKreiranogNaloga.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNaloga.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNalogaTaj.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledZahtjeva.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPrijenosPrava.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRacun.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRasporedGeneriranje.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmSviPutniNalozi.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosIzvjesca.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosNaloga.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskova.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskovaVisekratni.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.frmZahtjev.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.kataloskiPodaci.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\Uprava.NET.Properties.Resources.resources
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\RdlCompile.cache
+C:\Users\ORI\Desktop\uprava tajnica nastavnik\PutniNalozi\obj\x86\Debug\RdlCompile.compiled
+F:\trunk main\PutniNalozi\bin\Debug\lib\piLogin.dll
+F:\trunk main\PutniNalozi\bin\Debug\lib\piLogin.xml
+F:\trunk main\PutniNalozi\bin\Debug\upravaKlase\rasporedi.xml
+F:\trunk main\PutniNalozi\bin\Debug\lib\piDB3.db3
+F:\trunk main\PutniNalozi\bin\Debug\Resources\background.png
+F:\trunk main\PutniNalozi\bin\Debug\Resources\Key.png
+F:\trunk main\PutniNalozi\bin\Debug\piLogin.dll
+F:\trunk main\PutniNalozi\bin\Debug\piLogin.xml
+F:\trunk main\PutniNalozi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.about.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmAkontacija.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmArhivaPutniNalozi.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmEvidencijaAuta.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmIzvjestajPutniNaloziDatum.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmMain.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmLogin.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmObavijesti.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledKreiranogNaloga.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNaloga.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNalogaTaj.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledZahtjeva.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPrijenosPrava.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRacun.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRasporedGeneriranje.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmSviPutniNalozi.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosIzvjesca.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosNaloga.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskova.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskovaVisekratni.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.frmZahtjev.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.kataloskiPodaci.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\Uprava.NET.Properties.Resources.resources
+F:\trunk main\PutniNalozi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\trunk main\PutniNalozi\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\trunk main\PutniNalozi\obj\x86\Debug\RdlCompile.cache
+F:\trunk main\PutniNalozi\obj\x86\Debug\RdlCompile.compiled
+F:\trunk main\PutniNalozi\bin\Debug\PutniNalozi.NET.exe.config
+F:\trunk main\PutniNalozi\bin\Debug\PutniNalozi.NET.exe
+F:\trunk main\PutniNalozi\bin\Debug\PutniNalozi.NET.pdb
+F:\trunk main\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.exe
+F:\trunk main\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.pdb
+F:\wawa\PutniNalozi\bin\Debug\PutniNalozi.NET.exe.config
+F:\wawa\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.exe
+F:\wawa\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.pdb
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\PutniNalozi.NET.exe.config
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\lib\piLogin.dll
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\lib\piLogin.xml
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\upravaKlase\rasporedi.xml
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\lib\piDB3.db3
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\Resources\background.png
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\Resources\Key.png
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\PutniNalozi.NET.exe
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\PutniNalozi.NET.pdb
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\piLogin.dll
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\bin\Debug\piLogin.xml
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.about.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmAkontacija.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmArhivaPutniNalozi.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmEvidencijaAuta.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmIzvjestajPutniNaloziDatum.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmMain.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmLogin.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmObavijesti.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledKreiranogNaloga.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNaloga.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNalogaTaj.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledZahtjeva.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPrijenosPrava.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRacun.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRasporedGeneriranje.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmSviPutniNalozi.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosIzvjesca.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosNaloga.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskova.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskovaVisekratni.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmZahtjev.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.kataloskiPodaci.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.Properties.Resources.resources
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\RdlCompile.cache
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.exe
+C:\Users\Kruno\Desktop\pi\trunk\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.pdb
+C:\Users\Kruno\Desktop\pi-svn\trunk\PutniNalozi\bin\Debug\PutniNalozi.NET.exe.config
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\PutniNalozi.NET.exe.config
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.about.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaisplatnica.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaknjizenje.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaobracun.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaobracunaj.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formapregled.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formapretrazivanje.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmAkontacija.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmArhivaPutniNalozi.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmEvidencijaAuta.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmIzvjestajPutniNaloziDatum.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmMain.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmLogin.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmObavijesti.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledKreiranogNaloga.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNaloga.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNalogaTaj.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledZahtjeva.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPrijenosPrava.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRacun.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRasporedGeneriranje.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmSviPutniNalozi.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosIzvjesca.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosNaloga.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskova.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskovaVisekratni.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.frmZahtjev.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.kataloskiPodaci.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\Uprava.NET.Properties.Resources.resources
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\RdlCompile.cache
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\lib\piLogin.dll
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\lib\piLogin.xml
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\upravaKlase\rasporedi.xml
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\lib\piDB3.db3
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\Resources\background.png
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\Resources\Key.png
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\PutniNalozi.NET.exe
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\PutniNalozi.NET.pdb
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\piLogin.dll
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\bin\Debug\piLogin.xml
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.exe
+C:\Users\Kruno\Desktop\trunk\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.pdb
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\PutniNalozi.NET.exe.config
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.exe
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.pdb
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\lib\piLogin.dll
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\lib\piLogin.xml
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\upravaKlase\rasporedi.xml
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\lib\piDB3.db3
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\Resources\background.png
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\Resources\Key.png
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\PutniNalozi.NET.exe
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\PutniNalozi.NET.pdb
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\piLogin.dll
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\bin\Debug\piLogin.xml
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.about.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaisplatnica.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaknjizenje.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaobracun.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaobracunaj.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formapregled.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formapretrazivanje.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmAkontacija.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmArhivaPutniNalozi.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmEvidencijaAuta.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmIzvjestajPutniNaloziDatum.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmMain.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmLogin.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmObavijesti.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledKreiranogNaloga.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNaloga.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNalogaTaj.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledZahtjeva.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPrijenosPrava.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRacun.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRasporedGeneriranje.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmSviPutniNalozi.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosIzvjesca.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosNaloga.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskova.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskovaVisekratni.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.frmZahtjev.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.kataloskiPodaci.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\Uprava.NET.Properties.Resources.resources
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\RdlCompile.cache
+C:\Users\Kruno\Desktop\Putni Nalozi.NET TIM1\PutniNalozi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\PutniNalozi.NET.exe.config
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.exe
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\PutniNalozi.NET.pdb
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.about.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaisplatnica.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaknjizenje.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaobracun.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formaobracunaj.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formapregled.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\TIM18_racunovodstvo.formapretrazivanje.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmAkontacija.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmArhivaPutniNalozi.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmEvidencijaAuta.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmIzvjestajPutniNaloziDatum.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmMain.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmLogin.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmObavijesti.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledKreiranogNaloga.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNaloga.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledNalogaTaj.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPregledZahtjeva.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmPrijenosPrava.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRacun.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmRasporedGeneriranje.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmSviPutniNalozi.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosIzvjesca.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosNaloga.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskova.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmUnosTroskovaVisekratni.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.frmZahtjev.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.kataloskiPodaci.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\Uprava.NET.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\lib\piLogin.dll
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\lib\piLogin.xml
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\upravaKlase\rasporedi.xml
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\lib\piDB3.db3
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\Resources\background.png
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\Resources\Key.png
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\PutniNalozi.NET.exe
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\PutniNalozi.NET.pdb
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\piLogin.dll
+C:\Users\Tomislav\Desktop\za ponovnu predaju\PutniNalozi\bin\Debug\piLogin.xml

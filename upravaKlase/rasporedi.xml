@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rasporedi>
+	<raspored studij="IPS" valjanost="2012-12-31" grad="Varazdin" zgrada="FOI1" adresa="Pavlinska2">
+		
+			<!-- Generira se zahtjev --> 
+			<nastavnik grad="Zabok" zgrada="Neka_adresa3" adresa="Pavlinksa 2">
+				<osobniPodaci>
+					<adress>Varazdin 1</adress>
+					<email>mail@mail.com</email>
+					<phone>099123456789</phone>
+					<name>Ivo</name>
+					<surname>Ivek</surname>
+					<title>Mr.</title>
+					<username>ivek123</username>
+				</osobniPodaci>
+				<katedra>1</katedra>
+				<kolegij>Matematika 2</kolegij>
+				<pocetakOdrzavanja>2012-12-31 12:00:00</pocetakOdrzavanja>
+				<krajOdrzavanja>2012-12-31 14:00</krajOdrzavanja>
+			</nastavnik>
+			<!-- Za ovoga ne treba generirati nalog grad, zgrada i adresa su isti kao "lokacija" rasporeda -->
+			<nastavnik grad="Varazdin" zgrada="FOI1" adresa="Pavlinksa 2" >
+				<osobniPodaci>
+					<adress>Varazdin 2</adress>
+					<email>mail2@mail.com</email>
+					<phone>095123456789</phone>
+					<name>Pero</name>
+					<surname>Peric</surname>
+					<title>Mr.</title>
+					<username>pero123</username>
+				</osobniPodaci>
+				<katedra>1</katedra>
+				<kolegij>Matematika 2</kolegij>
+				<pocetakOdrzavanja>2012-12-31 12:00</pocetakOdrzavanja>
+				<krajOdrzavanja>2012-12-31 14:00</krajOdrzavanja>
+			</nastavnik>
+	</raspored>
+	<raspored studij="Ekonomika" valjanost="2012-12-31" grad="Varazdin" zgrada="FOI1" adresa="Pavlinska2">
+			<nastavnik grad="Zabok" zgrada="Neka_adresa3" adresa="Pavlinksa 2">
+				<osobniPodaci>
+					<adress>Varazdin 3</adress>
+					<email>mail23@mail.com</email>
+					<phone>093123456789</phone>
+					<name>Iva</name>
+					<surname>Ivić</surname>
+					<title>Mrs.</title>
+					<username>iva333</username>
+				</osobniPodaci>
+				<katedra>1</katedra>
+				<kolegij>Matematika 2</kolegij>
+				<pocetakOdrzavanja>2012-12-30 12:00</pocetakOdrzavanja>
+				<krajOdrzavanja>2012-12-30 14:00</krajOdrzavanja>
+			</nastavnik>
+	</raspored>
+</rasporedi>

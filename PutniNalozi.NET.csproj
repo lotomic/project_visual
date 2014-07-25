@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{04C5423B-7C56-4FF5-9B28-0E59CB013DBF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Uprava.NET</RootNamespace>
+    <AssemblyName>PutniNalozi.NET</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="piLogin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\piLogin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formaisplatnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formaisplatnica.designer.cs">
+      <DependentUpon>formaisplatnica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formaknjizenje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formaknjizenje.designer.cs">
+      <DependentUpon>formaknjizenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formaobracun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formaobracun.designer.cs">
+      <DependentUpon>formaobracun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formaobracunaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formaobracunaj.designer.cs">
+      <DependentUpon>formaobracunaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formapregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formapregled.designer.cs">
+      <DependentUpon>formapregled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formapretrazivanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formapretrazivanje.designer.cs">
+      <DependentUpon>formapretrazivanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAkontacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAkontacija.Designer.cs">
+      <DependentUpon>frmAkontacija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArhivaPutniNalozi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArhivaPutniNalozi.Designer.cs">
+      <DependentUpon>frmArhivaPutniNalozi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEvidencijaAuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEvidencijaAuta.Designer.cs">
+      <DependentUpon>frmEvidencijaAuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIzvjestajPutniNaloziDatum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIzvjestajPutniNaloziDatum.Designer.cs">
+      <DependentUpon>frmIzvjestajPutniNaloziDatum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmObavijesti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmObavijesti.Designer.cs">
+      <DependentUpon>frmObavijesti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPregledKreiranogNaloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPregledKreiranogNaloga.Designer.cs">
+      <DependentUpon>frmPregledKreiranogNaloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPregledNaloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPregledNaloga.Designer.cs">
+      <DependentUpon>frmPregledNaloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPregledNalogaTaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPregledNalogaTaj.Designer.cs">
+      <DependentUpon>frmPregledNalogaTaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPregledZahtjeva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPregledZahtjeva.Designer.cs">
+      <DependentUpon>frmPregledZahtjeva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrijenosPrava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrijenosPrava.Designer.cs">
+      <DependentUpon>frmPrijenosPrava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRacun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRacun.Designer.cs">
+      <DependentUpon>frmRacun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRasporedGeneriranje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRasporedGeneriranje.Designer.cs">
+      <DependentUpon>frmRasporedGeneriranje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSviPutniNalozi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSviPutniNalozi.Designer.cs">
+      <DependentUpon>frmSviPutniNalozi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnosIzvjesca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnosIzvjesca.Designer.cs">
+      <DependentUpon>frmUnosIzvjesca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnosNaloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnosNaloga.Designer.cs">
+      <DependentUpon>frmUnosNaloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnosTroskova.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnosTroskova.Designer.cs">
+      <DependentUpon>frmUnosTroskova.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnosTroskovaVisekratni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnosTroskovaVisekratni.Designer.cs">
+      <DependentUpon>frmUnosTroskovaVisekratni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmZahtjev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmZahtjev.Designer.cs">
+      <DependentUpon>frmZahtjev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kataloskiPodaci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kataloskiPodaci.Designer.cs">
+      <DependentUpon>kataloskiPodaci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="piDB1DataSet1.cs">
+      <DependentUpon>piDB1DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="piDB1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>piDB1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="piDB1DataSet_tim17.cs">
+      <DependentUpon>piDB1DataSet_tim17.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="piDB1DataSet_tim17.Designer.cs">
+      <DependentUpon>piDB1DataSet_tim17.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tim18_racunovodstvo.cs" />
+    <Compile Include="upravaKlase\rasporedParse.cs" />
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formaisplatnica.resx">
+      <DependentUpon>formaisplatnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formaknjizenje.resx">
+      <DependentUpon>formaknjizenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formaobracun.resx">
+      <DependentUpon>formaobracun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formaobracunaj.resx">
+      <DependentUpon>formaobracunaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formapregled.resx">
+      <DependentUpon>formapregled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formapretrazivanje.resx">
+      <DependentUpon>formapretrazivanje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAkontacija.resx">
+      <DependentUpon>frmAkontacija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArhivaPutniNalozi.resx">
+      <DependentUpon>frmArhivaPutniNalozi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEvidencijaAuta.resx">
+      <DependentUpon>frmEvidencijaAuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIzvjestajPutniNaloziDatum.resx">
+      <DependentUpon>frmIzvjestajPutniNaloziDatum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmObavijesti.resx">
+      <DependentUpon>frmObavijesti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPregledKreiranogNaloga.resx">
+      <DependentUpon>frmPregledKreiranogNaloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPregledNaloga.resx">
+      <DependentUpon>frmPregledNaloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPregledNalogaTaj.resx">
+      <DependentUpon>frmPregledNalogaTaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPregledZahtjeva.resx">
+      <DependentUpon>frmPregledZahtjeva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrijenosPrava.resx">
+      <DependentUpon>frmPrijenosPrava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRacun.resx">
+      <DependentUpon>frmRacun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRasporedGeneriranje.resx">
+      <DependentUpon>frmRasporedGeneriranje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSviPutniNalozi.resx">
+      <DependentUpon>frmSviPutniNalozi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnosIzvjesca.resx">
+      <DependentUpon>frmUnosIzvjesca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnosNaloga.resx">
+      <DependentUpon>frmUnosNaloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnosTroskova.resx">
+      <DependentUpon>frmUnosTroskova.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnosTroskovaVisekratni.resx">
+      <DependentUpon>frmUnosTroskovaVisekratni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmZahtjev.resx">
+      <DependentUpon>frmZahtjev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kataloskiPodaci.resx">
+      <DependentUpon>kataloskiPodaci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rptPutniNaloziPoDatumu.rdlc" />
+    <EmbeddedResource Include="rptSviPutniNalozi.rdlc" />
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="lib\piDB3.db3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="piDB1DataSet1.xsc">
+      <DependentUpon>piDB1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="piDB1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>piDB1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="piDB1DataSet1.xss">
+      <DependentUpon>piDB1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="piDB1DataSet_tim17.xsc">
+      <DependentUpon>piDB1DataSet_tim17.xsd</DependentUpon>
+    </None>
+    <None Include="piDB1DataSet_tim17.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>piDB1DataSet_tim17.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="piDB1DataSet_tim17.xss">
+      <DependentUpon>piDB1DataSet_tim17.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lib\piLogin.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="lib\piLogin.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\background.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\Key.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="upravaKlase\rasporedi.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

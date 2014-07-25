@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Uprava.NET.about" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAgAACAgCAUAAACAAAADAAAAEIAAEAAAAAAAAAA=</HashCode>
+      <FileName>about.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.frmLogin" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCCAIBACAAABEAAACAAAACAAABCAAAABAAAAFAAAA=</HashCode>
+      <FileName>frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.frmMain" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwwiRAgDgCAAhAgoNCTBQgQrBAgbAzgY2mOA0A4JAK4=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.frmPregledNaloga" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAIQAEACgCQICAAGCJAAADVZgBAAWgBCAwBBKIAAA=</HashCode>
+      <FileName>frmPregledNaloga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.frmPrijenosPrava" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIACAIAACBJABAAAASAQAACQACIAYAAAEAAAAAAAgA=</HashCode>
+      <FileName>frmPrijenosPrava.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.frmRasporedGeneriranje" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAKgABgCwAABAJAACABCACAAgAAAAAoIAIAAAAAAg=</HashCode>
+      <FileName>frmRasporedGeneriranje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSet">
+    <Position X="4.5" Y="6.25" Width="2.5" />
+    <NestedTypes>
+      <Class Name="Uprava.NET.piDB1DataSet.kontoDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.troskovi_kontoRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vrstaPutniNalogDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.vozilaRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.putniNalogRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.vrstaTrosakRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.vrstaPutniNalogRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.raspolozivostAutomobilaDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vozilaRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.glavnaKnjigaRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.statusNalogaRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vozilaRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.troskovi_kontoRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.statusNalogaDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.troskoviDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vrstaTrosakDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.kontoRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.kontoRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.nositeljTroskovaRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.nositeljTroskovaDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.troskovi_kontoDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.putniNalogDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vozilaDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.prijenosPravaRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vrstaPutniNalogRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.prijenosPravaRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.glavnaKnjigaRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.prijenosPravaRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.troskoviRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.glavnaKnjigaRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.statusNalogaRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Uprava.NET.piDB1DataSet.troskovi_kontoRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.nositeljTroskovaRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.putniNalogRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.troskoviRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Uprava.NET.piDB1DataSet.putniNalogRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.nositeljTroskovaRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.raspolozivostAutomobilaRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.raspolozivostAutomobilaRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.vrstaPutniNalogRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.kontoRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vrstaTrosakRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.troskoviRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.vrstaTrosakRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.glavnaKnjigaDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Uprava.NET.piDB1DataSet.statusNalogaRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Uprava.NET.piDB1DataSet.raspolozivostAutomobilaRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Uprava.NET.piDB1DataSet.prijenosPravaDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>KwGQIAAsAwQQJApFLWIFQQAAggmKQJgQAEERCEEQBBA=</HashCode>
+      <FileName>piDB1DataSet1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.Program" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.rasporedParse">
+    <Position X="1" Y="7" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCA=</HashCode>
+      <FileName>upravaKlase\rasporedParse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.prijenosPravaTableAdapter">
+    <Position X="7.75" Y="4.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEQAAgAcAIAAAAAAAAHEICAAgAABAAAAABBA=</HashCode>
+      <FileName>piDB1DataSet1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.putniNalogTableAdapter" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kESAAGAUHMADAgcAcAAgIEAAASEICEAAAAQIAAwgBRE=</HashCode>
+      <FileName>piDB1DataSet1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.glavnaKnjigaTableAdapter" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.kontoTableAdapter" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.nositeljTroskovaTableAdapter" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.raspolozivostAutomobilaTableAdapter" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.statusNalogaTableAdapter" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.troskoviTableAdapter" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.troskovi_kontoTableAdapter" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.vozilaTableAdapter" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.vrstaPutniNalogTableAdapter" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.vrstaTrosakTableAdapter" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.piDB1DataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="1.25" Y="9" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="Uprava.NET.piDB1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Uprava.NET.piDB1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ASAAICAAgABAxKkBAABBMEAgABAihAQAIAQgQCABBAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.Properties.Resources" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAABEAAAAQAAAAAAAAAAAAAAIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uprava.NET.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Uprava.NET.putniNalog" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAAAAAAAABAAAABCAAAAAAAAAAAIAIAAAAAAg=</HashCode>
+      <FileName>upravaKlase\rasporedParse.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Uprava.NET.nastavnik" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAIAAQAAAAAAAA=</HashCode>
+      <FileName>upravaKlase\rasporedParse.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
